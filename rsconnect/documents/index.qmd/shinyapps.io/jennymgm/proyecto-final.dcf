@@ -1,0 +1,14 @@
+name: proyecto-final
+title: proyecto-final
+username: jennymgm
+account: jennymgm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12265669
+bundleId: 8816343
+url: https://jennymgm.shinyapps.io/proyecto-final/
+version: 1
+quarto_version: 1.4.555
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE

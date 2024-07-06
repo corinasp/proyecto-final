@@ -1,0 +1,14 @@
+name: proyecto-final
+title: proyecto-final
+username: corinasp
+account: corinasp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12283414
+bundleId: 8832459
+url: https://corinasp.shinyapps.io/proyecto-final/
+version: 1
+quarto_version: 1.4.555
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
